@@ -5,6 +5,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 # It means include the gem to the group `jekyll_plugins`
 gem "jekyll-include-cache", group: :jekyll_plugins
+# NOTE: Comment out the above gems when running locally
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
