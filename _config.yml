@@ -113,13 +113,22 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Urmila-m"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/urmila-maharjan-124956153/"
 
 # Site Footer
-#footer:
-#  links:
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://www.github.com/Urmila-m"
+footer:
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://maharjanurmila.com.np"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Urmila-m"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/urmila-maharjan-124956153/"
 
 # Reading Files
 include:
