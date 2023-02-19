@@ -8,3 +8,16 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+docs:
+- title: "Blog Site Set Up"
+  children: 
+  - title: "How to set up a blog site(like this one)"
+    url: "/blog/set-up-blog-site"
+
+- title: "Buffer Overflow"
+  children:
+  - title: "Basics of Buffer Overflow"
+    url: "/blog/buffer-overflow"
+
+# By default, Jekyll builds the posts based upon its category to _site/{category_name}/{filename}/index.html. So when adding any new post, in url, add `/{category}/{filename}`
