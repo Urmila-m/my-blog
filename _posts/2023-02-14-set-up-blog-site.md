@@ -9,7 +9,11 @@ categories:
 - blog
 toc: true
 toc_sticky: true
+og_image: /assets/images/set_up_blog_site/blog.png
 ---
+
+![Cover Photo](/assets/images/set_up_blog_site/blog.png)
+
 Are you thinking about setting up your own personal website, but do not know where to start? Well, this blog can be a starting point for you. This site itself has been hosted using **Jekyll minimal-mistakes theme through github pages**. Jekyll is one of the most popular open-source static site generator written in Ruby programming language. A static site generator generates a full static HTML website based on raw data and a set of templates. The minimal-mistakes theme provides us with the option of multiple jekyll templates/layouts that we can use out of the box. It is popular for building personal sites, blogs, and portfolios. This blog is mainly targeted for the beginners, starting from how to set up the environment to how to deploy the theme remotely. All of this might feel overwhelming at first, but “*do not fret my child”,* by the end of this blog, you can have your own site up and running.  
 
 > *Disclaimer: Since, my primary programming language is python, you will find the analogies of python here and there!*

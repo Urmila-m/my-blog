@@ -14,7 +14,7 @@ docs:
   children: 
   - title: "How to set up a blog site(like this one)"
     url: "/blog/set-up-blog-site/"
-  - title: "Set up custom .np domain for deploying static site"
+  - title: "How to set up custom .np domain for deploying static site"
     url: "/blog/set-up-custom-domain/"
 
 - title: "Buffer Overflow"
