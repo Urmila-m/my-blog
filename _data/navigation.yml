@@ -17,10 +17,10 @@ docs:
   - title: "How to set up custom .np domain for deploying static site"
     url: "/blog/set-up-custom-domain/"
 
-- title: "Buffer Overflow"
+- title: "Tools"
   children:
-  - title: "Basics of Buffer Overflow"
-    url: "/blog/buffer-overflow"
+  - title: "Nmap"
+    url: "/tools/nmap/"
 
 # By default, Jekyll builds the posts based upon its category to _site/{category_name}/{filename}/index.html. So, when adding any new post, in url, add `/{category}/{filename}/`. 
 # Make sure to add the `/` at last, as this URL is compared with the current page URL to make the selected item bold in side nav bar.
