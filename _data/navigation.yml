@@ -21,6 +21,8 @@ docs:
   children:
   - title: "Nmap"
     url: "/tools/nmap/"
+  - title: "Netcat"
+    url: "/tools/netcat/"
 
 # By default, Jekyll builds the posts based upon its category to _site/{category_name}/{filename}/index.html. So, when adding any new post, in url, add `/{category}/{filename}/`. 
 # Make sure to add the `/` at last, as this URL is compared with the current page URL to make the selected item bold in side nav bar.
