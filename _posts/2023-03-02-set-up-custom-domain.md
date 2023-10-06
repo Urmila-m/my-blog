@@ -7,7 +7,8 @@ categories:
 - blog
 toc: true
 toc_sticky: true
-og_image: /assets/images/custom_domain/domain.png
+header:
+    og_image: /assets/images/custom_domain/domain.png
 ---
 ![Domain](/assets/images/custom_domain/domain.png)
 

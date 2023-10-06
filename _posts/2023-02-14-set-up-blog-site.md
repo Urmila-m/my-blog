@@ -9,7 +9,8 @@ categories:
 - blog
 toc: true
 toc_sticky: true
-og_image: /assets/images/set_up_blog_site/blog.png
+header:
+    og_image: /assets/images/set_up_blog_site/blog.png
 ---
 
 ![Cover Photo](/assets/images/set_up_blog_site/blog.png)
