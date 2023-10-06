@@ -238,6 +238,6 @@ This site has been hosted using the remote theme method. But for the local devel
 
 ---
 
-Customize the style, content as per your liking. You can also set up navigation bars and search bars. You can add images and other assets. Explore yourself, sky is the limit!
+Customize the style, content as per your liking. Refer to this [documentation on MarkDown Guide for Jekyll](https://www.markdownguide.org/tools/jekyll/). You can also set up navigation bars and search bars. You can add images and other assets. Explore yourself, sky is the limit!
 
 **Congratulations! You made it till the end! Hope it helped you 🙂**
