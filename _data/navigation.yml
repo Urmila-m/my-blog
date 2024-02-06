@@ -10,13 +10,6 @@ main:
     url: /about/
 
 docs:
-- title: "Blog Site Set Up"
-  children: 
-  - title: "How to set up a blog site(like this one)"
-    url: "/blog/set-up-blog-site/"
-  - title: "How to set up custom .np domain for deploying static site"
-    url: "/blog/set-up-custom-domain/"
-
 - title: "Tools"
   children:
   - title: "Nmap"
@@ -28,6 +21,15 @@ docs:
   children:
   - title: "FTP"
     url: "/protocol/ftp/"
+  - title: "NFS"
+    url: "/protocol/nfs/"
+
+- title: "Blog Site Set Up"
+  children: 
+  - title: "How to set up a blog site(like this one)"
+    url: "/blog/set-up-blog-site/"
+  - title: "How to set up custom .np domain for deploying static site"
+    url: "/blog/set-up-custom-domain/"
 
 # By default, Jekyll builds the posts based upon its category to _site/{category_name}/{filename}/index.html. So, when adding any new post, in url, add `/{category}/{filename}/`. 
 # Make sure to add the `/` at last, as this URL is compared with the current page URL to make the selected item bold in side nav bar.
