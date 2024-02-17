@@ -23,6 +23,8 @@ docs:
     url: "/protocol/ftp/"
   - title: "NFS"
     url: "/protocol/nfs/"
+  - title: "DNS"
+    url: "/protocol/dns/"
 
 - title: "Blog Site Set Up"
   children: 
