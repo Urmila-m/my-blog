@@ -25,6 +25,10 @@ docs:
     url: "/protocol/nfs/"
   - title: "DNS"
     url: "/protocol/dns/"
+  - title: "SMTP"
+    url: "/protocol/smtp/"
+  - title: "IMAP, POP3"
+    url: "/protocol/imap-pop3/"
 
 - title: "Blog Site Set Up"
   children: 
