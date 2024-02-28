@@ -29,6 +29,8 @@ docs:
     url: "/protocol/smtp/"
   - title: "IMAP, POP3"
     url: "/protocol/imap-pop3/"
+  - title: "SNMP"
+    url: "/protocol/snmp/"
 
 - title: "Blog Site Set Up"
   children: 
